@@ -1,0 +1,15 @@
+C:\Users\revan\source\repos\Mybank\Mybank\bin\Debug\net6.0\Mybank.exe
+C:\Users\revan\source\repos\Mybank\Mybank\bin\Debug\net6.0\Mybank.deps.json
+C:\Users\revan\source\repos\Mybank\Mybank\bin\Debug\net6.0\Mybank.runtimeconfig.json
+C:\Users\revan\source\repos\Mybank\Mybank\bin\Debug\net6.0\Mybank.dll
+C:\Users\revan\source\repos\Mybank\Mybank\bin\Debug\net6.0\Mybank.pdb
+C:\Users\revan\source\repos\Mybank\Mybank\obj\Debug\net6.0\Mybank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\revan\source\repos\Mybank\Mybank\obj\Debug\net6.0\Mybank.AssemblyInfoInputs.cache
+C:\Users\revan\source\repos\Mybank\Mybank\obj\Debug\net6.0\Mybank.AssemblyInfo.cs
+C:\Users\revan\source\repos\Mybank\Mybank\obj\Debug\net6.0\Mybank.csproj.CoreCompileInputs.cache
+C:\Users\revan\source\repos\Mybank\Mybank\obj\Debug\net6.0\Mybank.sourcelink.json
+C:\Users\revan\source\repos\Mybank\Mybank\obj\Debug\net6.0\Mybank.dll
+C:\Users\revan\source\repos\Mybank\Mybank\obj\Debug\net6.0\refint\Mybank.dll
+C:\Users\revan\source\repos\Mybank\Mybank\obj\Debug\net6.0\Mybank.pdb
+C:\Users\revan\source\repos\Mybank\Mybank\obj\Debug\net6.0\Mybank.genruntimeconfig.cache
+C:\Users\revan\source\repos\Mybank\Mybank\obj\Debug\net6.0\ref\Mybank.dll

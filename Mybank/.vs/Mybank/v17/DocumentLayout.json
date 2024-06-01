@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\revan\\source\\repos\\Mybank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DC344D-D7DD-49CC-A754-87EDC5F9C896}|TestProject1\\TestProject1.csproj|c:\\users\\revan\\source\\repos\\mybank\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DC344D-D7DD-49CC-A754-87EDC5F9C896}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B3C595-8702-4A08-B37C-7DC148A33C21}|Mybank\\Mybank.csproj|c:\\users\\revan\\source\\repos\\mybank\\mybank\\bankacct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B3C595-8702-4A08-B37C-7DC148A33C21}|Mybank\\Mybank.csproj|solutionrelative:mybank\\bankacct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B3C595-8702-4A08-B37C-7DC148A33C21}|Mybank\\Mybank.csproj|c:\\users\\revan\\source\\repos\\mybank\\mybank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B3C595-8702-4A08-B37C-7DC148A33C21}|Mybank\\Mybank.csproj|solutionrelative:mybank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B3C595-8702-4A08-B37C-7DC148A33C21}|Mybank\\Mybank.csproj|c:\\users\\revan\\source\\repos\\mybank\\mybank\\transcations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B3C595-8702-4A08-B37C-7DC148A33C21}|Mybank\\Mybank.csproj|solutionrelative:mybank\\transcations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\Mybank\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\Mybank\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T02:21:22.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\Mybank\\Mybank\\Program.cs",
+              "RelativeDocumentMoniker": "Mybank\\Program.cs",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\Mybank\\Mybank\\Program.cs",
+              "RelativeToolTip": "Mybank\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T17:01:20.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bankacct.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\Mybank\\Mybank\\Bankacct.cs",
+              "RelativeDocumentMoniker": "Mybank\\Bankacct.cs",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\Mybank\\Mybank\\Bankacct.cs",
+              "RelativeToolTip": "Mybank\\Bankacct.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T17:07:41.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transcations.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\Mybank\\Mybank\\Transcations.cs",
+              "RelativeDocumentMoniker": "Mybank\\Transcations.cs",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\Mybank\\Mybank\\Transcations.cs",
+              "RelativeToolTip": "Mybank\\Transcations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T18:19:36.543Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

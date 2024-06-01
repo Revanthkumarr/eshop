@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yz4C7hARmo2Dfq7SPONNe0SLkqSs2CbMT+v7L1vKQCXGu8PywW1s1DS9h3I5Cy0K9/HGYvwrTJetkuwg0tEW3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\revan\\source\\repos\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\revan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\revan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\revan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\revan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
